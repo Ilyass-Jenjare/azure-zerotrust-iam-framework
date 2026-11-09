@@ -1,6 +1,6 @@
 #  Azure Zero Trust IAM Framework
 
-![CI Status](https://github.com/ILyass_Jenjare/azure-zerotrust-iam-framework/actions/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/ILyass-Jenjare/azure-zerotrust-iam-framework/actions/workflows/ci.yml/badge.svg)
 ![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)
 ![PowerShell](https://img.shields.io/badge/PowerShell-7.0+-5391FE?logo=powershell)
 ![Azure](https://img.shields.io/badge/Azure-Cloud_Native-0078D4?logo=microsoft-azure)
